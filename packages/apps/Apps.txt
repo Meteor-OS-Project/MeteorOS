@@ -1,0 +1,4 @@
+List of apps:
+
+1. Settings and Settings2
+2. IDE

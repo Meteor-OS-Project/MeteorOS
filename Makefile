@@ -5,3 +5,6 @@ help:
 	@echo "------------------------------------------"
 	@echo ""
 	@echo "Operands [ all | help | clean ]"
+
+all:
+	@echo "Making KERNEL"

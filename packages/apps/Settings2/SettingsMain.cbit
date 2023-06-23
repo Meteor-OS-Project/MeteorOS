@@ -1,0 +1,5 @@
+class SettingsMain(){
+    MainClass;
+
+    public final version = 1.0.0;
+}

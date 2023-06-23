@@ -4,7 +4,7 @@
 
 To get started with the code, maybe fork the [repo](https://github.com/Meteor-OS-Project/MeteorOS) to your account! Then, edit away!
 Create a custom vendor file with your own vendor files at ```vendor\[your vendor title]```. You will also have to add a vendor option and set it to your
-Makefile (in your vendor folder) in ```Makefile```.
+Makefile (in your vendor folder) in ```vendor\Makefile```.
 
 ## Submitting patches
 
